@@ -1,5 +1,5 @@
 {
-    "name": "backpack/permissionmanager",
+    "name": "ciromattia/permissionmanager",
     "description": "Users and permissions management interface for Laravel 5 using Backpack CRUD.",
     "keywords": [
         "tabacitu",
@@ -16,7 +16,7 @@
         "manage users",
         "users roles admin"
     ],
-    "homepage": "https://github.com/laravel-backpack/permissionmanager",
+    "homepage": "https://github.com/ciromattia/permissionmanager",
     "license": "proprietary",
     "authors": [
         {
